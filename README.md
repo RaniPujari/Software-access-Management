@@ -230,16 +230,12 @@ This project demonstrates hands-on experience with:
 Software-Access-Management/
 │
 ├── README.md
-├── Update-Set/
+├── Update-Set/"
 │   └── software-access-management.xml
 │
 └── screenshots/
     ├── software-access-portal.png
     └── software-access-variable-sets.png
-```
-
-> Replace the Update Set filename above with the actual filename in your
-> repository.
 
 ------------------------------------------------------------------------
 
